@@ -119,3 +119,17 @@ First time:
 5. Start your application
 
 If you're only updating (meaning you've done the first time already), then just update your applications by giving a new war-file and restart application.
+
+## Using
+When launched, the application read all years available in database. With that info it fills the combobox.
+When year is chosen (first will be chosen by default) the chart will be re-drawn. 
+
+![Screenshot](https://cloud.githubusercontent.com/assets/19262966/24908100/796b7298-1ec7-11e7-864c-2012007e0335.jpg)
+
+## Using Charts
+
+Vaadin Charts is a commercial tool, consult
+https://vaadin.com/charts
+To get a license
+
+
