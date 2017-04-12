@@ -128,8 +128,8 @@ When year is chosen (first will be chosen by default) the chart will be re-drawn
 
 ## Using Charts
 
-Vaadin Charts is a commercial tool, consult
+Vaadin Charts is a commercial tool - but with possibility for free open-source development - consult
 https://vaadin.com/charts
-To get a license
+to get a license
 
 
