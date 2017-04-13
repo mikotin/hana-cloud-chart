@@ -1,4 +1,4 @@
-package com.sap.hana.cloud.samples.springboot;
+package org.vaadin.sample.hanachart;
 
 import java.sql.SQLException;
 
